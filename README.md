@@ -1,0 +1,2 @@
+# node-camera-qr-reader
+ 
