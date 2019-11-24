@@ -8,6 +8,10 @@
   },
   "author": "nikolaiwarner",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolaiwarner/node-camera-qr-reader.git"
+  },
   "dependencies": {
     "jpeg-js": "^0.3.6",
     "jsqr": "^1.2.0",
